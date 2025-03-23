@@ -20,7 +20,6 @@ def chat_with_ai(user_message):
         return response.json()["choices"][0]["message"]["content"]
     else:
         return f"Error: {response.status_code}, {response.text}"
-
 # Greeting message
 print("Hi there! I am Markhor, the AI chatbot powered by ChatGPT-4, represented by Coding Moves.")
 print("How can I assist you today?\n")
