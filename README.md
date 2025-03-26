@@ -13,6 +13,7 @@ This chatbot is designed to have intelligent conversations using OpenAI's API.
 ✅ Simple and **easy-to-use Python script**  
 ✅ Exit command (`exit`, `quit`, `bye`) to stop the chat  
 
+
 ---
 
 ## 🛠️ Installation  
